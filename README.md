@@ -1,6 +1,6 @@
 # PowerCalulator
 
-PowerCalculator is a small Python program to calculate for how long a power source could supply a consumer.
+PowerCalculator is a small Python program with GUI to calculate for how long a power source could supply a consumer.
 
 ## Installation
 
@@ -11,6 +11,8 @@ git clone https://github.com/drewOP/PowerCalculator.git
 ```
 
 ## Usage
+
+Simply cd into the directory and run the main.py file tith python
 
 ```bash
 cd PowerCalculator
